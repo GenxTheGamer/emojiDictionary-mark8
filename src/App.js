@@ -13,7 +13,8 @@ export default function App() {
     "🐺": "Wolf",
     "🦓": "Zebra",
     "🦌": "Deer",
-    "🐂": "Ox"
+    "🐂": "Ox",
+    "🐒": "Monkey"
   };
 
   var emojiWeKnow = Object.keys(emojiDictionary);
