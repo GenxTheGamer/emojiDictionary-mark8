@@ -1,4 +1,4 @@
-# Emoticon Interpreter [Mark 8]
+# Emoticon Interpreter
 
 
 
